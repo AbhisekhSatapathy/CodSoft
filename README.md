@@ -1,6 +1,6 @@
 # CodSoft Java Development Internship
 
-Welcome to the README file for CodSoft's Java Development Internship. This document outlines the tasks completed during the internship.
+Welcome to my repository for the Java programming tasks completed during my internship at Codsoft. Each task represents a distinct programming challenge aimed at enhancing Java programming skills and problem-solving abilities.
 
 ## Task 1: Number Game
 
