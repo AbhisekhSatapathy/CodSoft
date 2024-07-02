@@ -45,3 +45,14 @@ Welcome to my repository for the Java programming tasks completed during my inte
   3. Takes user input for the amount to convert.
   4. Converts the amount from the base currency to the target currency using fetched rates.
   5. Displays the converted amount and the target currency symbol to the user.
+
+## Usage
+
+1. **Review Code:** Open the files to view the Java code implementation.
+2. **Understand:** Each file includes comments and documentation explaining the approach and key points.
+
+## Additional Information
+
+- These solutions demonstrate my Java programming skills acquired during my internship at CodSoft.
+- For inquiries or feedback, please contact me at [satapathyabhisekh2003@gmail.com](mailto:satapathyabhisekh2003@gmail.com).
+- Feel free to explore and review the code to understand the methodologies used in solving each task.
